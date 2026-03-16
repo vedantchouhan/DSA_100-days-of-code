@@ -1,3 +1,11 @@
 echo ".DS_Store" >> .gitignore.DS_Store
 .DS_Store
+
+# macOS junk
 .DS_Store
+
+# compiled C binaries
+*.out
+*.o
+*.exe
+q*
