@@ -8,4 +8,4 @@ echo ".DS_Store" >> .gitignore.DS_Store
 *.out
 *.o
 *.exe
-q*
+q
