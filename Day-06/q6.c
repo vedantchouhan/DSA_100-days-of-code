@@ -1,3 +1,4 @@
+//6.
 #include <stdio.h>
 
 int main() {
